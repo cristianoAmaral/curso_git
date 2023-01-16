@@ -1,1 +1,1 @@
-Teste de inserção de texto no arquivo.
+Teste de inserção de texto no arquivo. Parte dois inserida no texto.
