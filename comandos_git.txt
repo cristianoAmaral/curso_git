@@ -42,4 +42,6 @@ git checkout + <nome_branch> => comando para mudar de Branch
 
 git checkout -b + <nome_branch> => cria um novo branch e muda para ele.
 
+git merge <nome_branch> => faz união dos branch
+
 
