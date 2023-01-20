@@ -44,4 +44,6 @@ git checkout -b + <nome_branch> => cria um novo branch e muda para ele.
 
 git merge <nome_branch> => faz união dos branch
 
+git stash => Comando utilizado para fazer rollback para estado inicial do projeto, porém é possivel recuperar caso seja necessároio o que foi feito. 
+
 
