@@ -46,4 +46,12 @@ git merge <nome_branch> => faz união dos branch
 
 git stash => Comando utilizado para fazer rollback para estado inicial do projeto, porém é possivel recuperar caso seja necessároio o que foi feito. 
 
+git stash list => lista todas as stash feita até o momento
 
+git stash apply < Numero da Stash> => recupera a stash enviada para a lixeira.
+
+ git stash show -p < Numero da Stash> => Mostra quais alterações foram feitas.
+
+ git stash clear => Limpa todas as stash
+
+ git stash drop < Numero da Stash> = Exclui a stash selecionada apenas.
