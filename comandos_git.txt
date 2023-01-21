@@ -55,3 +55,7 @@ git stash apply < Numero da Stash> => recupera a stash enviada para a lixeira.
  git stash clear => Limpa todas as stash
 
  git stash drop < Numero da Stash> = Exclui a stash selecionada apenas.
+
+ git tag -a <Nome da Tag> -m <Mensagem enviada > Cria um marco durante o desenvolvimento.
+
+ 
