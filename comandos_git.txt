@@ -54,8 +54,10 @@ git stash apply < Numero da Stash> => recupera a stash enviada para a lixeira.
 
  git stash clear => Limpa todas as stash
 
- git stash drop < Numero da Stash> = Exclui a stash selecionada apenas.
+ git stash drop < Numero da Stash> => Exclui a stash selecionada apenas.
 
- git tag -a <Nome da Tag> -m <Mensagem enviada > Cria um marco durante o desenvolvimento.
+ git tag -a <Nome da Tag> -m <Mensagem enviada > => Cria um marco durante o desenvolvimento.
 
- 
+ git show < nome da tag> => Mostra toda atualização feita quando foi salva a tag
+
+ git checkout < nome da tag > => Usado para trocar de tag
