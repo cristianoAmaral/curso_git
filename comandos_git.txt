@@ -5,7 +5,7 @@ git init  => Adiciona o projeto ao git.
 
 git status => Exibe o status do repo que estamos trabalhando.
 
-git add => adiciona arquivo para ser comitado
+git add <nome do arquivo> => adiciona arquivo para ser comitado
 
 git add . => adiciona vários arquivos na area de Stage.
 
