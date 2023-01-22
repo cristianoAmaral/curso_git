@@ -11,3 +11,6 @@ Adicionando a Funcionalidade C.
 ===============================================================
 Enviando nova funcionalidade de salva cartão de credito.
 
+Adicionando a Funcionalidade D.
+===============================================================
+Enviando nova funcionalidade de Excluir cartão de credito.
