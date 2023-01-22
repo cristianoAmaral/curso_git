@@ -7,7 +7,3 @@ Enviando a Funcionalidade B.
 ===============================================================
 Enviando nova funcionalidade Lista de produtos favoritos.
 
-
-Adicioanando Funcionalidade C.
-===============================================================
-Enviando nova funcionalidade salvar cartão de credito.
