@@ -1,4 +1,4 @@
-Funcionalidade A.
+git Funcionalidade A.
 ===============================================================
 Enviando nova funcionalidade de carrinho de compras.
 
