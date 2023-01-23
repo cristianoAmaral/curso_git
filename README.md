@@ -1,3 +1,3 @@
-"# curso_git" 
+# Curso_git 
 
-Testando o Git com Matheus Battisti.
+**Testando o Git com Matheus Battisti.**
