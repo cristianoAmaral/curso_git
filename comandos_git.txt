@@ -65,6 +65,7 @@ git stash apply < Numero da Stash> => recupera a stash enviada para a lixeira.
 =============================================================================
 Compartilhamento e atualização de Repo
 =============================================================================
+git 
 
 =============================================================================
 Analise e inspeção de Repo
