@@ -32,5 +32,11 @@ _Teste Itálico_
 
 ## Inserindo imagem
 
+**Inserindo imagem local**
+
 ![imagem PHP](./img/php.png)
+
+**Inserindo imagem por url**
+
+![imagem python](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgseY7mdhgtrJDNY8abXq9uCj1qJUQ37N9yQ&usqp=CAU)
 
