@@ -13,4 +13,20 @@ _Teste Itálico_
 *Teste Itálico*
 
 
+## Listas no Markdown
+
+### Lista ordenada
+
+1. Html
+2. Css
+3. Javascript
+4. PHP 
+5. Mysql
+
+### Lista não ordenada.
+
+* Barra de menu
+* Menu de contexto
+* Body da página
+* Rodapé
 
