@@ -30,3 +30,7 @@ _Teste Itálico_
 * Body da página
 * Rodapé
 
+## Inserindo imagem
+
+[imagem PHP](./img/php.png)
+
