@@ -48,9 +48,7 @@ _Teste Itálico_
 
 ## Inserindo Código Fonte
 
-'''python
-
-  def calcular_pagamento(qtd_horas, valor_hora):
+'''def calcular_pagamento(qtd_horas, valor_hora):
   horas = float(qtd_horas)
   taxa = float(valor_hora)
   if horas <= 40:
@@ -58,8 +56,5 @@ _Teste Itálico_
   else:
     h_excd = horas - 40
     salario = 40*taxa+(h_excd*(1.5*taxa))
-  return salario
-
-
-'''
+  return salari0'''
 
