@@ -32,5 +32,5 @@ _Teste Itálico_
 
 ## Inserindo imagem
 
-[imagem PHP](./img/php.png)
+![imagem PHP](./img/php.png)
 
