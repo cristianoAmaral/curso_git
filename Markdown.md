@@ -55,4 +55,14 @@ function exibirMensagem()
 }
 ```
 
+## Lista de tarefa em projeto.
+
+- [x] HTML
+- [x] CSS
+- [x] Javascript
+- [ ] PHP
+- [ ] Oracle BD
+
+
+
 
