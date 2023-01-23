@@ -61,3 +61,19 @@ git stash apply < Numero da Stash> => recupera a stash enviada para a lixeira.
  git show < nome da tag> => Mostra toda atualização feita quando foi salva a tag
 
  git checkout < nome da tag > => Usado para trocar de tag
+
+=============================================================================
+Compartilhamento e atualização de Repo
+=============================================================================
+
+=============================================================================
+Analise e inspeção de Repo
+=============================================================================
+
+git show => Examinar objetos em um repositório Git e historico de commits.
+
+git diff => Mostra a diferença entre arquivos do git.
+
+git shortlog => Mostra um historico de commits do que foi feito no projeto.
+
+
