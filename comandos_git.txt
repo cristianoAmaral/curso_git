@@ -86,5 +86,7 @@ git clean => limpa todos arquivos que estão untracked
 
 git gc => Limpa arquivos que não são necessário para nosso projeto através do garbage collector.
 
-git 
+git fsck => Verifica a integridade de arquivos e a sua conectividade do repo.
+
+
 
