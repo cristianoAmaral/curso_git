@@ -78,3 +78,9 @@ git diff => Mostra a diferença entre arquivos do git.
 git shortlog => Mostra um historico de commits do que foi feito no projeto.
 
 
+=============================================================================
+Admistração de repositório
+=============================================================================
+
+git clean => limpa todos arquivos que estão untracke
+
