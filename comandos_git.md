@@ -3,6 +3,8 @@
 =============================================================================
 ## Comandos básico do git
 =============================================================================
+
+
 git init  => Adiciona o projeto ao git.
 
 git status => Exibe o status do repo que estamos trabalhando.
@@ -34,6 +36,8 @@ git reset --hard + origin/main => Reseta as configurações para as mesmas defin
 =============================================================================
 ## Trabalhando com Branch
 =============================================================================
+
+
 git branch => Comnado para verificar quantos branch temos e onde estamos trabalhando.
 
 git branch + nome_branch => cria um novo branch
@@ -67,11 +71,14 @@ git stash apply < Numero da Stash> => recupera a stash enviada para a lixeira.
 =============================================================================
 ## Compartilhamento e atualização de Repo
 =============================================================================
+
+
 git 
 
 =============================================================================
 ## Analise e inspeção de Repo
 =============================================================================
+
 
 git show => Examinar objetos em um repositório Git e historico de commits.
 
@@ -83,6 +90,7 @@ git shortlog => Mostra um historico de commits do que foi feito no projeto.
 =============================================================================
 ## Admistração de repositório
 =============================================================================
+
 
 git clean => limpa todos arquivos que estão untracked
 
