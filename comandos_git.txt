@@ -82,5 +82,9 @@ git shortlog => Mostra um historico de commits do que foi feito no projeto.
 Admistração de repositório
 =============================================================================
 
-git clean => limpa todos arquivos que estão untracke
+git clean => limpa todos arquivos que estão untracked
+
+git gc => Limpa arquivos que não são necessário para nosso projeto através do garbage collector.
+
+git 
 
