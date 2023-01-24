@@ -88,5 +88,7 @@ git gc => Limpa arquivos que não são necessário para nosso projeto através d
 
 git fsck => Verifica a integridade de arquivos e a sua conectividade do repo.
 
+git reflog => Mapea todos seus passos no repo.
+
 
 
